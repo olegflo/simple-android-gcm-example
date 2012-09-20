@@ -7,3 +7,6 @@
 *.dex
 *.class
 *.apk
+*.properties
+*.xml
+*.txt
