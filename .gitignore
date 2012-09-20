@@ -2,3 +2,8 @@
 *.ipr
 *.iws
 .idea/
+*.res
+*.unaligned
+*.dex
+*.class
+*.apk
